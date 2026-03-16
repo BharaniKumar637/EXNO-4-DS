@@ -24,6 +24,100 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+
+<img width="635" height="654" alt="Screenshot 2026-02-24 135445" src="https://github.com/user-attachments/assets/f7cbcf09-a797-40cf-b19b-f53edccec3ac" />
+
+
+
+
+
+<img width="702" height="533" alt="Screenshot 2026-02-24 135452" src="https://github.com/user-attachments/assets/b398f102-6817-44f0-aac9-cdd981b7b81a" />
+
+
+
+
+
+
+
+
+<img width="696" height="775" alt="Screenshot 2026-02-24 135505" src="https://github.com/user-attachments/assets/bcd1f681-ab45-41be-9da5-240d259987a2" />
+
+
+
+
+
+
+
+
+<img width="712" height="518" alt="Screenshot 2026-02-24 135517" src="https://github.com/user-attachments/assets/8e4061f0-c036-4e7b-8321-07c613c4b80f" />
+
+
+
+
+
+<img width="789" height="550" alt="Screenshot 2026-02-24 135524" src="https://github.com/user-attachments/assets/4d581870-dcc6-4c21-bde3-fd782e81fee3" />
+
+
+
+
+
+
+
+<img width="759" height="576" alt="Screenshot 2026-02-24 135530" src="https://github.com/user-attachments/assets/023ba4e1-9c0d-432d-b978-4c68d9bea07e" />
+
+
+
+
+
+
+<img width="780" height="368" alt="Screenshot 2026-02-24 135537" src="https://github.com/user-attachments/assets/b6c92e29-e799-40cf-97d1-0a24757369b9" />
+
+
+
+
+
+<img width="1445" height="647" alt="Screenshot 2026-02-26 162536" src="https://github.com/user-attachments/assets/169b8df0-a5cd-4c79-ba17-822c806e79d4" />
+
+
+
+
+
+<img width="750" height="660" alt="Screenshot 2026-02-26 162549" src="https://github.com/user-attachments/assets/bda63aba-08c8-490f-9b70-9e235b72137f" />
+
+
+
+
+<img width="605" height="396" alt="Screenshot 2026-02-26 162602" src="https://github.com/user-attachments/assets/4af834f9-e201-458b-b9f8-2362dd4151fb" />
+
+
+
+
+<img width="599" height="591" alt="Screenshot 2026-02-26 162619" src="https://github.com/user-attachments/assets/0e9b0004-aa40-40e7-b4a5-0f715a556fe1" />
+
+
+
+
+
+
+
+<img width="960" height="302" alt="Screenshot 2026-02-26 163208" src="https://github.com/user-attachments/assets/af271bd9-9c2c-45a0-900c-65820b48340a" />
+
+
+
+
+
+<img width="1238" height="477" alt="Screenshot 2026-02-26 163215" src="https://github.com/user-attachments/assets/0a6422bc-9b43-47f3-a265-2c47e9515976" />
+
+
+
+
+
+<img width="832" height="368" alt="Screenshot 2026-02-26 180605" src="https://github.com/user-attachments/assets/02959644-ac09-43b3-a8b4-aa562f2eb06f" />
+
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+     
+     Thus the the given data is performed Feature Scaling and Feature Selection process and saved the data to a file successfully. 
